@@ -1,0 +1,87 @@
+url=http://192.168.21.175:8081/employeeportal/#/login
+username=john@apmosys.com
+password=Apmosys@123
+otp=12341234
+==
+EmpId=100600
+FullName=Biswajit sahoo
+==
+EmailID=test_kimaeqjgjgddeuhdwqw@apmosys.com
+Secondary_EmailID=bikjjgjrghddsdqyuergfeaa@gmail.com
+==
+Mobile_number=9048329013
+Employment_Status=Confirmed
+Manager=ANURAg
+department=Admin
+Designation=Jr Engineer
+JobRole=Super Admin
+Experience=Fresher
+Work_Location=Maharashtra
+Bilable=Yes
+
+==
+department_Name=Apyeaejhyrptsf
+Head_of_Department=hh
+
+==
+Role_job=Maetcdki
+Employee_Role=Employee
+Employee_Department=FUNCTIONAL TESTING
+
+Select_Holiday_type=Festival
+Occasion=SUN Leave
+State=Maharashtra
+
+Leave_Type_N=Comp Off
+Leave_Code_N=CO
+Gender=Female
+Default_Leave=1
+Description=Leave Application Testing
+Rules=test
+
+Policy_Name=JSAAB Leave
+Employment_Status=Confirmed
+Leave_Type=Paid Leave
+Allow_Leave_Application=Yes
+Monthly_Increment=Yes
+Monthly_Increment_value=1
+One_Time_Leave_Limit=Yes
+One_Time_Leave_Minimum_Limit_Value=30
+One_Time_Leave_Maximum_Limit_Value=45
+Leave_Carry_Forward=Yes
+Leave_Carry_Forward_Value=10
+Leave_Validation_Expiration=Yes
+Leave_Validation_Expiration_period=10
+Leave_App_Count_Locking=Yes
+Leave_App_Count_Locking_Period=150
+Leave_App_Count_value=10
+Leave_App_Probation=Yes
+Leave_Probation_Period=10
+
+Event_Name=Republic day
+Notification=New image uploaded
+
+Event_Name=Independence Day
+Select_Employees=All
+Appreciation_Event=December
+Appreciation_Categories=You are Supportive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
